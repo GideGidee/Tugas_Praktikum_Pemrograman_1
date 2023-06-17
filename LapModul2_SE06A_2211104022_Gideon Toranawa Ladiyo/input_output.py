@@ -43,4 +43,4 @@ for i in data:
         maks = i
 
 print(maks)
-print("Selesai")
+
