@@ -18,3 +18,4 @@ t_prisma = float(input("tinggi prisma : "))
 v_prisma = l_segitiga * t_prisma
 print("==========================")
 print("Volume prisma segitiga adalah", v_prisma)
+print("fauzan")
